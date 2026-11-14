@@ -1,8 +1,9 @@
-### Affan Ahmed
+<p align="center"><a href="https://hypr.cat"><img src="banner.jpg" alt="An anime girl with silver-blue hair coding at night beside a sleeping white cat, a city skyline behind her" width="100%" /></a></p>
+
+<h3 align="center">Affan Ahmed</h3>
+<p align="center"><a href="https://hypr.cat">hypr.cat</a> · computer use · agents · Bengaluru</p>
 
 I am a researcher and a founding engineer at [Alma Inc](https://alma.inc), working on computer use: getting AI to operate real apps quickly and without mistakes. Before that I founded Midsphere AI and Limelight Social. I live in Bengaluru.
-
-Site and writing: [hypr.cat](https://hypr.cat)
 
 #### Computer use
 
@@ -35,3 +36,5 @@ A video platform for creators in India: [limelight](https://github.com/hyprcat/l
 - [What a 70.76% on GAIA is made of](https://hypr.cat/blog/what-a-gaia-score-is-made-of/)
 - [Getting background operation into someone else's Mac agent](https://hypr.cat/blog/mac-agent-in-the-background/)
 - [How Sukuna runs a task, and how it got there](https://hypr.cat/blog/how-sukuna-runs-a-task/)
+
+<p align="center"><sub>She keeps the builds green. The cat keeps the keyboard warm.</sub></p>
